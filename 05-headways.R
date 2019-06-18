@@ -1,6 +1,8 @@
 # Install ggplot and lubridate (this is only required once)
-install.packages('ggplot2', dependencies = TRUE)
-install.packages('lubridate', dependencies = TRUE)
+#install.packages('ggplot2', dependencies = TRUE)
+#install.packages('lubridate', dependencies = TRUE)
+
+# get data https://www.theopenbus.com/raw-data.html 
 
 # Load ggplot into current session
 library(ggplot2)
